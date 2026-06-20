@@ -25,8 +25,9 @@ This project uses Deep Learning and SMOTE to detect heart disease risk factors f
 - Google Colab
 
 ## Author
-Roya Hajimalek - AI Researcher# heart-disease-ai
-Heart disease detection using Deep Learning and SMOTE ## How to Run
+Roya Hajimalek - AI Researcher
+
+## How to Run
 1. Download the dataset from the Kaggle link above
 2. Open the notebook `heart_disease_ai.ipynb` in Google Colab
 3. Upload the dataset CSV file when prompted
