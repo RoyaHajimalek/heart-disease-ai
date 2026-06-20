@@ -17,7 +17,7 @@ This project uses Deep Learning and SMOTE to detect heart disease risk factors f
 | Model | Accuracy | Recall | AUC |
 |-------|----------|--------|-----|
 | Baseline (No SMOTE) | 91% | 2% | 0.50 |
-| With SMOTE | 81% | 64% | 0.73 |
+| With SMOTE | 81% | 64% | 0.83 |
 
 ## Tools
 - Python, TensorFlow, Keras
