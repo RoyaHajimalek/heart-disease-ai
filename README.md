@@ -2,6 +2,8 @@
 
 > This is the baseline version of this project. For an advanced version with multiple model comparisons (Logistic Regression, Random Forest, XGBoost) and cross-validation analysis, see [heart-disease-model-comparison](https://github.com/RoyaHajimalek/heart-disease-model-comparison).
 
+> This is the baseline version of this project. For an advanced version with multiple model comparisons (Logistic Regression, Random Forest, XGBoost) and cross-validation analysis, see [heart-disease-model-comparison](https://github.com/RoyaHajimalek/heart-disease-model-comparison).
+
 ## Overview
 This project uses Deep Learning and SMOTE to detect heart disease risk factors from a dataset of 319,795 patients.
 
