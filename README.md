@@ -4,7 +4,7 @@
 This project uses Deep Learning and SMOTE to detect heart disease risk factors from a dataset of 319,795 patients.
 
 ## Dataset
-- Source: Kaggle - Personal Key Indicators of Heart Disease (2020)
+Source: [Kaggle - Personal Key Indicators of Heart Disease (2020)](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 - Size: 319,795 records, 18 features
 - Target: HeartDisease (Yes/No)
 
